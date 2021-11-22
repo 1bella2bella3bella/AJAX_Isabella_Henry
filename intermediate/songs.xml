@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<!-- [ATTENTION!!!!]
+Following line of code MUST be on the VRY FIRST line of the XML document. Otherwise, the code will not function:
+
+
+"<?xml version="1.0"?>"
+
+______________________________
+
+[ADDITIONALLY]
+The content of the XML data has to be wrapped in a container of tags.
+
+ -->
+<songTracks>
+    <song id="1">
+        <image>https://i.pinimg.com/736x/a8/7f/8a/a87f8af15e096cc8951169124156f327.jpg</image>
+        <title>Who do you believe in</title>
+        <artist>Tupac Amaru Shakur</artist>
+        <country>USA</country>
+        <genre>Rap</genre>
+        <year>1993</year>
+    </song>
+    <song id="2">
+        <image>https://i.pinimg.com/736x/a8/7f/8a/a87f8af15e096cc8951169124156f327.jpg</image>
+        <title>Rock PHP</title>
+        <artist>Isa Harwig</artist>
+        <country>Germany</country>
+        <genre>Tiroler Musik</genre>
+        <year>2021</year>
+    </song>
+    <song id="3">
+        <image>https://i.pinimg.com/736x/a8/7f/8a/a87f8af15e096cc8951169124156f327.jpg</image>
+        <title>Back to Back-End</title>
+        <artist>Henry H</artist>
+        <country>Belgium</country>
+        <genre>K-Pop</genre>
+        <year>2020</year>
+
+    </song>
+    <song id="4">
+        <image>https://i.pinimg.com/736x/a8/7f/8a/a87f8af15e096cc8951169124156f327.jpg</image>
+        <title>Holy Water</title>
+        <artist>Franzi</artist>
+        <country>China</country>
+        <genre>Indie Rock</genre>
+        <year>2008</year>
+    </song>
+    <song id="5">
+        <image>https://i.pinimg.com/736x/a8/7f/8a/a87f8af15e096cc8951169124156f327.jpg</image>
+        <title>Holy Water</title>
+        <artist>Franzi</artist>
+        <country>China</country>
+        <genre>Indie Rock</genre>
+        <year>2008</year>
+    </song>
+    <song id="6">
+        <image>https://i.pinimg.com/736x/a8/7f/8a/a87f8af15e096cc8951169124156f327.jpg</image>
+        <title>Holy Water</title>
+        <artist>Franzi</artist>
+        <country>China</country>
+        <genre>Indie Rock</genre>
+        <year>2008</year>
+    </song>
+    <song id="7">
+        <image>https://i.pinimg.com/736x/a8/7f/8a/a87f8af15e096cc8951169124156f327.jpg</image>
+        <title>Holy Water</title>
+        <artist>Franzi</artist>
+        <country>China</country>
+        <genre>Indie Rock</genre>
+        <year>2008</year>
+    </song>
+    <song id="8">
+        <image>https://i.pinimg.com/736x/a8/7f/8a/a87f8af15e096cc8951169124156f327.jpg</image>
+        <title>Holy Water</title>
+        <artist>Franzi</artist>
+        <country>China</country>
+        <genre>Indie Rock</genre>
+        <year>2008</year>
+    </song>
+    <song id="9">
+        <image>https://i.pinimg.com/736x/a8/7f/8a/a87f8af15e096cc8951169124156f327.jpg</image>
+        <title>Holy Water</title>
+        <artist>Franzi</artist>
+        <country>China</country>
+        <genre>Indie Rock</genre>
+        <year>2008</year>
+    </song>
+    <song id="10">
+        <image>https://i.pinimg.com/736x/a8/7f/8a/a87f8af15e096cc8951169124156f327.jpg</image>
+        <title>Holy Water</title>
+        <artist>Franzi</artist>
+        <country>China</country>
+        <genre>Indie Rock</genre>
+        <year>2008</year>
+    </song>
+    <song id="11">
+        <image>https://i.pinimg.com/736x/a8/7f/8a/a87f8af15e096cc8951169124156f327.jpg</image>
+        <title>Holy Water</title>
+        <artist>Franzi</artist>
+        <country>China</country>
+        <genre>Indie Rock</genre>
+        <year>2008</year>
+    </song>
+    <song id="12">
+        <image>https://i.pinimg.com/736x/a8/7f/8a/a87f8af15e096cc8951169124156f327.jpg</image>
+        <title>Holy Water</title>
+        <artist>Franzi</artist>
+        <country>China</country>
+        <genre>Indie Rock</genre>
+        <year>2008</year>
+    </song>
+    <song id="13">
+        <image>https://i.pinimg.com/736x/a8/7f/8a/a87f8af15e096cc8951169124156f327.jpg</image>
+        <title>Holy Water</title>
+        <artist>Franzi</artist>
+        <country>China</country>
+        <genre>Indie Rock</genre>
+        <year>2008</year>
+    </song>
+    <song id="14">
+        <image>https://i.pinimg.com/736x/a8/7f/8a/a87f8af15e096cc8951169124156f327.jpg</image>
+        <title>Holy Water</title>
+        <artist>Franzi</artist>
+        <country>China</country>
+        <genre>Indie Rock</genre>
+        <year>2008</year>
+    </song>
+    <song id="15">
+        <image>https://i.pinimg.com/736x/a8/7f/8a/a87f8af15e096cc8951169124156f327.jpg</image>
+        <title>Holy Water</title>
+        <artist>Franzi</artist>
+        <country>China</country>
+        <genre>Indie Rock</genre>
+        <year>2008</year>
+    </song>
+    <song id="16">
+        <image>https://i.pinimg.com/736x/a8/7f/8a/a87f8af15e096cc8951169124156f327.jpg</image>
+        <title>Holy Water</title>
+        <artist>Franzi</artist>
+        <country>China</country>
+        <genre>Indie Rock</genre>
+        <year>2008</year>
+    </song>
+    <song id="17">
+        <image>https://i.pinimg.com/736x/a8/7f/8a/a87f8af15e096cc8951169124156f327.jpg</image>
+        <title>Holy Water</title>
+        <artist>Franzi</artist>
+        <country>China</country>
+        <genre>Indie Rock</genre>
+        <year>2008</year>
+    </song>
+    <song id="18">
+        <image>https://i.pinimg.com/736x/a8/7f/8a/a87f8af15e096cc8951169124156f327.jpg</image>
+        <title>Holy Water</title>
+        <artist>Franzi</artist>
+        <country>China</country>
+        <genre>Indie Rock</genre>
+        <year>2008</year>
+    </song>
+    <song id="19">
+        <image>https://i.pinimg.com/736x/a8/7f/8a/a87f8af15e096cc8951169124156f327.jpg</image>
+        <title>Holy Water</title>
+        <artist>Franzi</artist>
+        <country>China</country>
+        <genre>Indie Rock</genre>
+        <year>2008</year>
+    </song>
+    <song id="20">
+        <image>https://i.pinimg.com/736x/a8/7f/8a/a87f8af15e096cc8951169124156f327.jpg</image>
+        <title>Holy Water</title>
+        <artist>Franzi</artist>
+        <country>China</country>
+        <genre>Indie Rock</genre>
+        <year>2008</year>
+    </song>
+    <song id="4">
+        <image>https://i.pinimg.com/736x/a8/7f/8a/a87f8af15e096cc8951169124156f327.jpg</image>
+        <title>Holy Water</title>
+        <artist>Franzi</artist>
+        <country>China</country>
+        <genre>Indie Rock</genre>
+        <year>2008</year>
+    </song>
+
+
+
+
+    
+</songTracks>
+
