@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AJAX: Basic exercise with .txt file</title>
+</head>
+<body>
+
+    <div>
+        <h1>Letter to the user</h1>
+        <button id="btn">Show message</button>
+        <br>
+        <div id="letter">
+
+        </div>
+    </div>
+    <!-- SCRIPT -->
+    <script>
+        let btn = document.getElementById("btn");
+        btn.addEventListener("click", showMsg);
+
+        function showMsg(){
+            let message = new XMLHttpRequest();
+            console.log(message);
+            message.open("GET", "basic.txt", true);
+           
+            message.onload = function(){
+                if(message.status == 200){
+                    // console.log(message.status);
+                    // console.log(message);
+                    document.getElementById("letter").innerHTML = message.responseText;
+                }
+            }
+            message.send();
+        }
+
+    </script>
+</body>
+</html>

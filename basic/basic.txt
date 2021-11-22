@@ -1,0 +1,7 @@
+<p>Hi,</p> 
+
+<p style="width: 15ch; color: red; font-size: 2ch;">We are Isabella and Henry. Currently, we learn AJAX. No idea whether we will manage. But we will do our best.
+Bear with us...</p>
+
+<h1>Thanks!<h1>
+<h6>Isabella & Henry</h6>
